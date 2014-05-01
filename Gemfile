@@ -32,9 +32,7 @@ group :doc do
   gem 'sdoc', require: false
 end
 group :development do
-	gem "annotate", "2.6.3"
 	gem 'sqlite3'
-	gem "faker","1.3.0"
 end
 
 gem "protected_attributes", "1.0.7"
